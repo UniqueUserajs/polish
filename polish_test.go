@@ -4,7 +4,7 @@ import (
   . "github.com/orfjackal/gospec/src/gospec"
   "github.com/orfjackal/gospec/src/gospec"
   "math"
-  "github.com/runningwild/polish"
+  "github.com/UniqueUserajs/polish"
 )
 
 func Float64ContextSpec(c gospec.Context) {
